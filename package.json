@@ -61,7 +61,7 @@
     "gatsby-transformer-sharp": "^3.14.0",
     "gbimage-bridge": "^0.2.1",
     "lodash": "^4.17.21",
-    "nuka-carousel": "^4.8.4",
+    "nuka-carousel": "^5.0.14",
     "prism-react-renderer": "^1.2.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
